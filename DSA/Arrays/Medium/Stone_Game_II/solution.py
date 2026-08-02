@@ -4,4 +4,3 @@ class Solution(object):
         :type piles: List[int]
         :rtype: int
         """
-        if
