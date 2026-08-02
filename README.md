@@ -2,10 +2,14 @@
 
 Auto-tracked DSA solutions by [@palavinash16](https://github.com/palavinash16). Powered by **DSA Tracker**.
 
-**Total solved:** 22
+**Total solved:** 26
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Stone Game | LeetCode | Medium | Arrays | [link](https://leetcode.com/problems/stone-game/) |
+| Remove Duplicates from Sorted Array | LeetCode | Easy | Arrays | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| Remove Duplicates from Sorted Array | LeetCode | Easy | Arrays | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| Remove Duplicates from Sorted Array | LeetCode | Easy | Arrays | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | Subarray With Given Sum | GFG | Unknown | Arrays | [link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/) |
 | Remove Duplicates from Sorted Array | LeetCode | Easy | Arrays | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | Remove Duplicates from Sorted Array | LeetCode | Easy | Arrays | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
