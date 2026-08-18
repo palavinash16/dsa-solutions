@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@palavinash16](https://github.com/palavinash16). Powered by **DSA Tracker**.
 
-**Total solved:** 30
+**Total solved:** 31
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Move All Negative Elements To End | GFG | Unknown | Uncategorized | [link](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/) |
 | Validate an IP Address:- | GFG | Unknown | Uncategorized | [link](https://www.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/) |
 | Stone Game II | LeetCode | Medium | Arrays | [link](https://leetcode.com/problems/stone-game-ii/) |
 | Stone Game | LeetCode | Medium | Arrays | [link](https://leetcode.com/problems/stone-game/) |
