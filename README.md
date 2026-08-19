@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@palavinash16](https://github.com/palavinash16). Powered by **DSA Tracker**.
 
-**Total solved:** 32
+**Total solved:** 33
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Who Will Win | GFG | Unknown | Binary Search | [link](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/) |
 | Check The Status | GFG | Unknown | Uncategorized | [link](https://www.geeksforgeeks.org/problems/check-the-status/) |
 | Move All Negative Elements To End | GFG | Unknown | Uncategorized | [link](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/) |
 | Validate an IP Address:- | GFG | Unknown | Uncategorized | [link](https://www.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/) |
